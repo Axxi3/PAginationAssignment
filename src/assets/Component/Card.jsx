@@ -1,5 +1,5 @@
 import React from 'react'
-import book from '../Component/images/book.jpg'
+
 export default function Card(props) {
   return (
     <> 
