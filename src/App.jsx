@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import productList from './Array'
 import Card from './assets/Component/Card'
-import Slider from './assets/Component/Slider'
+
 
 
 function App() {
